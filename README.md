@@ -9,7 +9,9 @@
 ![You will something like this in your terminal.](https://github.com/Yosolita1978/screenshoots/blob/main/template/Screen%20Shot%202022-03-20%20at%207.50.46%20PM.png?raw=true)
 
 2. To clean your folder from the owner git, run the command `rm -rf .git`
-3. Run the command `git init` to start your git repository
+
+3. Run the command `git init` to start your git repository - Disclaimer: Please note that if you're working inside the `techtonica-assignments" folder, you don't need to do the git init step. You already have a git tracking your files.
+
 4. Go to the server folder in the project (`cd server`) and run the command `npm install`
 
 5. Go to the cliente folder (`cd .. and cd client`) and run the command `npm start`
